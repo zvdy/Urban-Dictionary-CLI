@@ -10,8 +10,9 @@ $ pip install -r requirements.txt
 
 ## Usage
 ```bash
-$ python urban.py <word> <amout_of_definitios>
+$ python urban_dict.py <word> <amout_of_definitios>
 ```
+>To be able to add word's with spaces in between, please use %20 instead of the space; Example: Hello%20World
 
 ## Example
 ```
