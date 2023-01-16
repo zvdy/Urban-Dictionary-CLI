@@ -1,6 +1,3 @@
-# Return the urban definition of a word
-# usage: python3 urban_dict.py <word> <number of definitions>
-
 import sys
 import requests
 
